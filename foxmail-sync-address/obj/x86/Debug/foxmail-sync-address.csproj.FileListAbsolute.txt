@@ -1,0 +1,7 @@
+d:\用户目录\我的文档\visual studio 2010\projects\foxmail-sync-address\foxmail-sync-address\bin\Debug\foxmail-sync-address.exe
+d:\用户目录\我的文档\visual studio 2010\projects\foxmail-sync-address\foxmail-sync-address\bin\Debug\foxmail-sync-address.pdb
+d:\用户目录\我的文档\visual studio 2010\projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Debug\foxmail_sync_address.Form1.resources
+d:\用户目录\我的文档\visual studio 2010\projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Debug\foxmail_sync_address.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Debug\foxmail-sync-address.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2010\projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Debug\foxmail-sync-address.exe
+d:\用户目录\我的文档\visual studio 2010\projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Debug\foxmail-sync-address.pdb
