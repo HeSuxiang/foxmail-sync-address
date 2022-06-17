@@ -1,0 +1,8 @@
+D:\用户目录\我的文档\Visual Studio 2010\Projects\foxmail-sync-address\foxmail-sync-address\bin\Release\foxmail-sync-address.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\foxmail-sync-address\foxmail-sync-address\bin\Release\foxmail-sync-address.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Release\foxmail_sync_address.Form1.resources
+D:\用户目录\我的文档\Visual Studio 2010\Projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Release\foxmail_sync_address.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2010\Projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Release\foxmail-sync-address.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2010\Projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Release\foxmail-sync-address.exe
+D:\用户目录\我的文档\Visual Studio 2010\Projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Release\foxmail-sync-address.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\foxmail-sync-address\foxmail-sync-address\obj\x86\Release\foxmail-sync-address.csprojResolveAssemblyReference.cache
