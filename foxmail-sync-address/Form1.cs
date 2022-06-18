@@ -19,7 +19,13 @@ namespace foxmail_sync_address
         private string FoxmailProcessName = "Foxmail";
         //文件名
         private string FoxmailAppName = "Foxmail.exe";
-        
+
+        //用户名
+        private string UserName = "guest";
+        //密码
+        private string UserPasswd = "";
+        //服务器地址
+        private string ServerAddress ="192.168.9.233";
 
         //服务器路径
         string ServerPath = @"\\192.168.9.233\foxmail";
@@ -86,8 +92,11 @@ namespace foxmail_sync_address
                 //DebugSharedTool();
                 ShowInfo("开始更新邮箱地址");
 
-                SharedTool tool = new SharedTool("guest", "", "192.168.9.233");
+                //连接服务器
+                SharedTool tool = new SharedTool(UserName, UserPasswd, ServerAddress);
+                //拷贝文件夹
                 CopyFolder(ServerPath, FoxmailLocalPath);
+
                 MessageBox.Show("Foxmail邮箱地址地址薄已自动更新");
                 //更新后启动Foxmail
                 Process.Start(FoxmailAppName);
