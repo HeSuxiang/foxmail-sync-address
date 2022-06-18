@@ -88,13 +88,14 @@ namespace foxmail_sync_address
 
                 SharedTool tool = new SharedTool("guest", "", "192.168.9.233");
                 CopyFolder(ServerPath, FoxmailLocalPath);
-
+                MessageBox.Show("Foxmail邮箱地址地址薄已自动更新");
                 //更新后启动Foxmail
                 Process.Start(FoxmailAppName);
             }
             catch (Exception ex)
             {
                 ShowInfo("连接到服务器时错误:" + ex.Message);
+                MessageBox.Show("连接到更新服务器时错误");
             }
 
             //退出程序
@@ -162,6 +163,7 @@ namespace foxmail_sync_address
             {
                 MessageBox.Show(exception.Message);
                 ShowInfo("复制文件时出错");
+                //MessageBox.Show("更新邮箱地址出错");
                 //抛出异常
                 throw (exception);
 

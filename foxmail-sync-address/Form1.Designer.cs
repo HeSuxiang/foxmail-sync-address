@@ -53,7 +53,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "中深foxmail同步地址簿工具 v1.0";
+            this.Text = "中深foxmail同步地址簿工具 v2.0";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
